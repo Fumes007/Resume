@@ -9,12 +9,6 @@ body {
 
 /* General & 'Reset' Stuff */
 
-.container {
-  width: 90%;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
 section {
   display: block;
   margin: 0 0 20px 0;
@@ -42,7 +36,7 @@ header {
   margin: 0 0 40px 0;
 }
     header .profile {
-        background-image: url(../img/avatar.png);
+        background-image: url(../images/avatar.png);
         background-size: cover;
         background-position: center;
         height: 150px;
