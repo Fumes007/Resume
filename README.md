@@ -2,4 +2,4 @@
 http://fumes007.github.io
 
 
-my resume
+Material design Resume
