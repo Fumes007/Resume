@@ -5,6 +5,8 @@
       <title>My Resume</title>
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="css/kudosplease.css" />
+      <script src="js/kudosplease-min.js"></script>
       <link type="text/css" rel="stylesheet" href="css/custom.css"  media="screen,projection"/>
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
@@ -14,6 +16,22 @@
       <!--Import jQuery before materialize.js-->
       <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
       <script type="text/javascript" src="js/materialize.min.js"></script>
+      
+      <div class="kudos" data-amount="0" data-url="fumes007.github.io"></div>
+      
+      <code class="language-javascript">KudosPlease({ 
+    el : '.kudos',
+    duration : 1500,
+    persistent : true,
+    status : {
+      alpha: 'fontelico-emo-shoot',
+      beta: 'fontelico-emo-shoot',
+      gamma: 'fontelico-emo-beer'
+    }
+});</code>
+      
+      
+      
       <div class="row">
          <div class="col s12 l4 left_content">
             <div class="collection card-panel" style="padding: 0px">
