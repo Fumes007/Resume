@@ -13,6 +13,12 @@ body {
   font-size: 1.0rem;
 }
 
+.certs {
+  color: #737373;
+  font-size: 1.0rem;
+
+}
+
 .collection .collection-item.avatar {
   height: 62px;
   border-bottom: 0px
@@ -172,11 +178,24 @@ a {
 .skills {
   margin-top: 20px;
   margin-left: 100px;
+
 }
 
 .skills .title {
   margin-top: 10px;
   margin-left: -20px;
+}
+
+.certs {
+  margin-top: 20px;
+  margin-left: 100px;
+
+}
+
+.certs .certs {
+  margin-top: 10px;
+  margin-left: -20px;
+
 }
 
 .left_content .skills {
