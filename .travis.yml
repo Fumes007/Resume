@@ -1,1 +1,9 @@
 
+deploy:
+  provider: pages
+  skip-cleanup: true
+  keep-history: true
+  github_token: $github_token
+  traget-branch: master
+  on:
+    branch: master
