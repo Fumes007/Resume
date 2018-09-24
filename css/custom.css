@@ -186,23 +186,31 @@ a {
   margin-left: -20px;
 }
 
+.left_content .skills {
+  margin-left: 80px;
+}
+
+.left_content .skills .title {
+  margin-left: -20px;
+}
+
 .certs {
   margin-top: 20px;
   margin-left: 100px;
 
 }
 
-.certs .certs {
+.certs .title {
   margin-top: 10px;
   margin-left: -20px;
 
 }
 
-.left_content .skills {
+.left_content .certs {
   margin-left: 80px;
 }
 
-.left_content .skills .title {
+.left_content .certs .title {
   margin-left: -20px;
 }
 
