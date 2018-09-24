@@ -253,7 +253,12 @@ a {
   .left_content .skills {
     margin-left: 30px;
   }
-
+   .certs {
+    margin-left: 30px;
+  }
+  .left_content .certs {
+    margin-left: 30px;
+  }
 }
 
 @media (max-width: 480px) {
